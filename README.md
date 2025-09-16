@@ -9,6 +9,12 @@ This system streamlines library operations and provides students, teachers, staf
 
 ---
 
+## 📖 Documentation
+Full project documentation (including screenshots) is available here:  
+👉 [Library_Management_System.pdf](./Documentation(Library_Management_Sytem).pdf)
+
+---
+
 ## 👨‍💻 Authors
 - Tyron B. Dimla  
 - Reymark M. Mendoza  
